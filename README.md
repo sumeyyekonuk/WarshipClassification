@@ -1,11 +1,6 @@
 # ⚓ Naval Vessel Recognition System
 
 YOLOv8 tabanlı savaş gemisi sınıflandırma projesi. Görüntüden gemi türünü tanıyan, bilinmeyen nesneleri reddedebilen bir masaüstü uygulaması.
-<img width="1242" height="866" alt="Ekran görüntüsü 2026-05-21 183505" src="https://github.com/user-attachments/assets/9cbcd1dd-d674-48aa-b344-41ffc67cc53b" />
-<img width="1188" height="833" alt="Ekran görüntüsü 2026-05-21 183519" src="https://github.com/user-attachments/assets/24d08784-0a73-4187-b740-318c7a8e39cb" />
-<img width="1263" height="828" alt="Ekran görüntüsü 2026-05-21 183533" src="https://github.com/user-attachments/assets/8a274841-7abe-4539-aadd-32af1808afdb" />
-<img width="1172" height="810" alt="Ekran görüntüsü 2026-05-21 183549" src="https://github.com/user-attachments/assets/c81ec254-1622-449c-b7de-5866e38ab111" />
-<img width="1097" height="762" alt="Ekran görüntüsü 2026-05-21 183607" src="https://github.com/user-attachments/assets/edec2996-d4f0-4a88-b125-5be0644ec050" />
 
 ---
 
@@ -105,3 +100,8 @@ results = model.train(
 )
 ```
 
+<img width="1242" height="866" alt="Ekran görüntüsü 2026-05-21 183505" src="https://github.com/user-attachments/assets/9cbcd1dd-d674-48aa-b344-41ffc67cc53b" />
+<img width="1188" height="833" alt="Ekran görüntüsü 2026-05-21 183519" src="https://github.com/user-attachments/assets/24d08784-0a73-4187-b740-318c7a8e39cb" />
+<img width="1263" height="828" alt="Ekran görüntüsü 2026-05-21 183533" src="https://github.com/user-attachments/assets/8a274841-7abe-4539-aadd-32af1808afdb" />
+<img width="1172" height="810" alt="Ekran görüntüsü 2026-05-21 183549" src="https://github.com/user-attachments/assets/c81ec254-1622-449c-b7de-5866e38ab111" />
+<img width="1097" height="762" alt="Ekran görüntüsü 2026-05-21 183607" src="https://github.com/user-attachments/assets/edec2996-d4f0-4a88-b125-5be0644ec050" />
