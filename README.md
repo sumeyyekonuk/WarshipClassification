@@ -100,4 +100,3 @@ results = model.train(
 )
 ```
 
----t İzzet Baysal Üniversitesi
